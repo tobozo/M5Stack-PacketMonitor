@@ -1,5 +1,16 @@
 # M5Stack-PacketMonitor
 
+
+ARCHIVED PROJECT
+----------------
+This clone was only a proof of concept and is no longer maintained.
+
+See the excellent [ESP32-WiFi-Hash-Monster](https://github.com/G4lile0/ESP32-WiFi-Hash-Monster) instead.
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
 A clone of [@spacehuhn](https://github.com/spacehuhn)'s [ESP32 Packet Monitor](https://github.com/spacehuhn/PacketMonitor32) adapted to fit on a [M5Stack](http://m5stack.com) with the [M5Stack-SD-Menu](https://github.com/tobozo/M5Stack-SD-Updater).
 
 ![M5Stack-PacketMonitor](https://raw.githubusercontent.com/tobozo/M5Stack-PacketMonitor/master/images/M5Stack-PacketMonitor.jpg)
